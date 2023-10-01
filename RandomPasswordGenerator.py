@@ -154,6 +154,7 @@ def module_3():
     b.pack()
     b1=Button(f1,text="->",command=home)
     b1.place(x=0,y=0) 
+
 def home():
     f1=Frame()
     f1.place(x=0,y=0,width=350,height=350) 
